@@ -1,4 +1,4 @@
-# Welcome ! 🚀
+# Welcome BU Contributor ! 🚀
 
 Welcome to **Build Uprise Collaborations**, a community of students and developers who are passionate about building projects and learning through collaboration. Join us as we create, innovate, and push the boundaries of technology together.
 
