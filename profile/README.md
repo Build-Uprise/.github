@@ -1,6 +1,6 @@
-# Welcome to CodeQuest 🚀
+# Welcome ! 🚀
 
-Welcome to **CodeQuest**, a community of students and developers who are passionate about building projects and learning through collaboration. Join us as we create, innovate, and push the boundaries of technology together.
+Welcome to **Collaborations**, a community of students and developers who are passionate about building projects and learning through collaboration. Join us as we create, innovate, and push the boundaries of technology together.
 
 ## 🔥 What We Do
 
@@ -66,7 +66,3 @@ Join our community on [Slack](https://slack.com) or [Discord](https://discord.co
 We’re excited to see what we can build together! 🌍
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
