@@ -28,13 +28,6 @@ Whether you're a beginner or an experienced developer, **CodeQuest** is the perf
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **CI/CD**: GitHub Actions, Travis CI, CircleCI
 
----
-
-## 🎨 Visual Preview
-
-Below is an animation of our latest project in action! 👇
-
-![Project Animation](https://media.giphy.com/media/26gszLpi6VJe6qfv2/giphy.gif)
 
 ---
 
