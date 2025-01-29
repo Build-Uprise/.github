@@ -1,6 +1,6 @@
 # Welcome ! 🚀
 
-Welcome to **Collaborations**, a community of students and developers who are passionate about building projects and learning through collaboration. Join us as we create, innovate, and push the boundaries of technology together.
+Welcome to **Build Uprise Collaborations**, a community of students and developers who are passionate about building projects and learning through collaboration. Join us as we create, innovate, and push the boundaries of technology together.
 
 ## 🔥 What We Do
 
@@ -10,7 +10,7 @@ Welcome to **Collaborations**, a community of students and developers who are pa
 - Learning new technologies and tools
 - Supporting each other's growth
 
-Whether you're a beginner or an experienced developer, **CodeQuest** is the perfect place to collaborate, create, and learn.
+Whether you're a beginner or an experienced developer, **Build Uprise** is the perfect place to collaborate, create, and learn.
 
 ## 🚀 How to Get Started
 
