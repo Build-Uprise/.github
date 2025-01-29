@@ -4,7 +4,7 @@ Welcome to **Collaborations**, a community of students and developers who are pa
 
 ## 🔥 What We Do
 
-At **CodeQuest**, we focus on:
+ we focus on:
 - Building open-source projects
 - Collaborating on real-world solutions
 - Learning new technologies and tools
